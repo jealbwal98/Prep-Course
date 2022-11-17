@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(15, 2, 2);
+
+}
+img {
+    width: 150px;
+}
+h1 {
+    color: rgb(5, 9, 230);
+    text-align: center;
+}
+#did {
+    position: relative;
+    left: 250px;
+    width: 800px;
+    font-size: 20px;
+    border: 50px solid rgb(118, 206, 96);
+    background-color: rgb(240, 142, 243);
+}
