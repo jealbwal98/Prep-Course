@@ -1,4 +1,4 @@
-# Homework: HTML
+ # Homework: HTML
 
 Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crearas una propia.
 
@@ -56,7 +56,7 @@ IV. Suba su trabajo a su repositorio de github`
   * Centrar los div en la página
   * Centrar todos los elementos en la página
   * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
-  * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
+  * Lea sobre  y use flexbox para centrar todos los elementos en la página
 
 ## Ejercicio II
 
@@ -75,6 +75,6 @@ Además agregá una sección más donde expliques por qué estás estudiando est
 
 Subir también este archivo a su repositorio de github
 
-```
+```flexbox
 
 > Para este ejercicio vos vas a tener que elegir que **tags** html usar para darle la mejor estructuración al html. Acordate que en el futuro vamos a ver más en profundidad los estilos CSS, por lo que por ahora no te preocupes tanto del layout más allá de las reglas básicas.

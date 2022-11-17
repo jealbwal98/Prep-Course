@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://remedioscaseros10.com/es/wp-content/uploads/sites/3/2017/11/frutas-acidas-2.jpg");
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 255, 64);
+}
+img {
+    width: 350px;
+}
+#thirdDiv {
+    display: flex;
+    flex-direction: column;
+    background: rgb(235, 8, 8);
+    height: 550px;
+    width: 550px;
+    padding: 100px;
+    border: 18px solid rgba(246, 255, 204, 0.533);
+    position: relative;
+    left: 300px;
+    width: 500px;
+    height: 450px;
+}
+#spanid {
+    flex-direction: column;
+    margin: 100px;
+    font-size: 20px;
+}
+.didClass {
+    text-align: center;
+}
